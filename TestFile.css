@@ -1,0 +1,101 @@
+/*
+PZL-19th Feb 2022
+*/
+
+
+/*DISPLAY*/
+.container,.panel{padding:0.01em 16px}.panel{margin-top:16px;margin-bottom:16px}
+.margin-control{margin:-8px -8px !important;}
+/*COLOUR*/
+.red,.hover-red:hover{color:#f44336!important;background-color:#f7f0f0!important}
+.grey,.hover-grey:hover{color:black !important;background-color: #C8C8C8 !important;}
+
+p1{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+
+.test01
+{
+    text-align: center;
+    font-size: clamp(50px, 5vw, 50px);
+}
+
+.test02
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+.text
+{
+    text-align: center;
+    vertical-align: text-bottom;
+    font-size: 15px;
+}
+div.center
+{
+    text-align: center;
+}
+
+.videoWrapper
+{
+    position: relative;
+    padding-bottom: 56.25%;
+    height:0;
+}
+iframe
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 400px;
+}
+
+.row
+{
+    display:flex;
+    margin: 8px;;
+}
+.column
+{
+    float : left;
+    flex : 33.33%;
+    padding :8em;
+    text-align: center;
+}
+
+.column01
+{
+    float : left;
+    flex : 25%;
+    padding :5.5em;
+    text-align: center;
+}
+
+
+
+.head-text {
+    
+    color: #0053A1;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    height: 150px;
+    max-height: 150px;
+}
+
+.head2-text {
+    color: #0053A1;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+    height: 150px;
+}
+
+.haha{
+    font-size: large;
+}
+
+
+    
